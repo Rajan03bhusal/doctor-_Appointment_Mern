@@ -1,0 +1,11 @@
+# Node.js folders
+node_modules/
+
+# Node.js package files
+package.json
+package-lock.json
+
+# Your project-specific folders
+controller/
+model/
+middleware/
